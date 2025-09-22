@@ -32,19 +32,21 @@ Además, cuenta con un **sistema avanzado de gestión de roles**, lo que garanti
 
 ---
 
-## ⚙️ Instalación y ejecución  
+## 💡 Conclusión
 
-### 🔹 Clonar repositorios  
-```bash
----
-
-💡 Conclusión
 Este proyecto me permitió:
-
-Fortalecer mis conocimientos en desarrollo Full Stack.
-
-Trabajar con tecnologías de última generación.
-
-Enfrentar y superar un reto real de arquitectura y gestión de permisos.
+- Fortalecer mis conocimientos en desarrollo Full Stack.
+- Trabajar con tecnologías de última generación.
+- Enfrentar y superar un reto real de arquitectura y gestión de permisos.
 
 Si te interesa el proyecto o tienes algún feedback, ¡me encantaría escucharlo! 🚀📖
+
+## ⚙️ Instalación y ejecución  
+
+### 🔹 Clonar repositorio  
+```bash
+# Clonar frontend
+git clone https://github.com/pedro-aldana/libreria-client.git
+cd frontend
+
+
