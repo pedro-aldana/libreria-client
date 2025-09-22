@@ -32,6 +32,13 @@ Además, cuenta con un **sistema avanzado de gestión de roles**, lo que garanti
 
 ---
 
+## 📂 Repositorios del código
+
+- Frontend: https://github.com/pedro-aldana/libreria-client
+- Backend: https://github.com/pedro-aldana/libreria-api
+
+---
+
 ## 💡 Conclusión
 
 Este proyecto me permitió:
